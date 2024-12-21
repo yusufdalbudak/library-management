@@ -20,14 +20,3 @@ To run this project, you will need to have Python 3.6 or later installed, along 
 
 
 
-library-management/
-├── .venv/               # Virtual environment folder
-├── assets/               # Folder for any assets (images, etc.)
-├── src/                  # Main source code
-│   ├── database/         # SQLite database file
-│   ├── __init__.py       # Package initialization file
-│   ├── book_management.py # Book management logic
-│   ├── utils.py          # Utility functions
-│   └── main.py           # Main entry point for the application
-├── Readme.md             # This file
-└── requirements.txt      # Python dependencies
